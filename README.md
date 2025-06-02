@@ -1,4 +1,4 @@
-A practice mod targeting 1.0.0 any% of *The Legend of Zelda: Tears of the Kingdom*.
+A practice mod targeting 1.0.0 (it will ONLY work on this version) any% of *The Legend of Zelda: Tears of the Kingdom*.
 
 Current version is 2.2.
 
@@ -9,7 +9,7 @@ Current version is 2.2.
 - A load state command (Y A dpad right) that warps you at the saved position and rotation.
 - A wingflip practice command (Y A dpad down) that warps you at the correct location, in a free fall state, and gives you one fairy and two wings (execute on GSI for less lag).
 - A demon dragon practice command (Y A dpad up) that triggers the end of the Demon King ganondorf fight cutscene that leads to demon dragon. also gives MS to speed up cutscenes, one black lizal horn and two wings.
-- A duzzgle command (X A dpad down) that zuggles your currently equipped weapon and reequips it. (made by the goat @dt13269)
+- A dzuggle command (X A dpad down) that zuggles your currently equipped weapon and reequips it. (made by the goat @dt13269)
 - A "save" menu loadable by pressing ZL, ZR and the left stick (L3) together, which allows you to load six "saves" for now:
   - Prologue, which just boots Prologue with the correct loadout and no flag turned on.
   - Cog Skip Skip, which puts you just after Room of Awakening, in position to go in Cog Skip Skip, with the correct loadout and flags.
@@ -23,13 +23,25 @@ Current version is 2.2.
 
 ### Credits
 - Echocolat: Developer
-- dt13269: Helped a ton with AINB, AINB library, zuggle AINB node
+- dt13269: Helped a ton with AINB, [AINB library](https://github.com/dt-12345/ainb), [zuggle AINB node](https://github.com/dt-12345/zuggleAI)
 - Real Princess Zelda: Helped a ton with AINB
-- MrMystery: Starlight creator
-- Arch Leaders: NX Editor creator
+- MrMystery: [Starlight](https://github.com/MrMystery-Official/Starlight-Dev) creator
+- Arch Leaders: [NX Editor](https://github.com/NX-Editor/NxEditor) creator
+- zeldamods/leoetlino: [EventEditor](https://github.com/zeldamods/event-editor) creators
 - Echecetdame: Original idea and help through the theorycrafting stage
-- aquacluck: lotuskit creator
+- aquacluck: [lotuskit](https://github.com/aquacluck/totk-lotuskit) creator
 - Aergyl: Tons of help understanding the glitches better
 
+Added dzuggle command, three saves (FDC To Ascend, Ascend Overload Setup, early Battery), 100% topaz drop rate from Daruk amiibos
+
 ### How to install
-WIP
+
+Make sure to delete any previous installation of the mod if you're updating. Note that this is not compatible with 99% of mods (but it is compatible with the Intro Skip mod).
+
+#### If you're not using Simple Mod Manager
+
+Download the normal version of the mod in the releases and extract the `atmosphere` folder from the archive in the root folder of your modded Switch's SD Card. Accept any file overwrite. To remove it, simply delete the `exefs` and `romfs` folders in `atmosphere\contents\0100F2C0115B6000`.
+
+#### If you're using [Simple Mod Manager][https://github.com/nadrino/SimpleModManager]
+
+Download the Simple Mod Manager version of the mod in the releases and extract the `mods` folder from the archive in the root folder of your modded Switch's SD Card. Then you can enable the mod in Simple Mod Manager.
