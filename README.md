@@ -32,8 +32,6 @@ Current version is 2.2.
 - aquacluck: [lotuskit](https://github.com/aquacluck/totk-lotuskit) creator
 - Aergyl: Tons of help understanding the glitches better
 
-Added dzuggle command, three saves (FDC To Ascend, Ascend Overload Setup, early Battery), 100% topaz drop rate from Daruk amiibos
-
 ### How to install
 
 Make sure to delete any previous installation of the mod if you're updating. Note that this is not compatible with 99% of mods (but it is compatible with the Intro Skip mod).
