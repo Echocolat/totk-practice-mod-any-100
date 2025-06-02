@@ -38,6 +38,10 @@ Added dzuggle command, three saves (FDC To Ascend, Ascend Overload Setup, early 
 
 Make sure to delete any previous installation of the mod if you're updating. Note that this is not compatible with 99% of mods (but it is compatible with the Intro Skip mod).
 
+#### If you're playing on emulator
+
+Download the emulator version of the mod in the releases and extract the `Practice Mod TotK 1.0.0` folder in your mod folder.
+
 #### If you're not using Simple Mod Manager
 
 Download the normal version of the mod in the releases and extract the `atmosphere` folder from the archive in the root folder of your modded Switch's SD Card. Accept any file overwrite. To remove it, simply delete the `exefs` and `romfs` folders in `atmosphere\contents\0100F2C0115B6000`.
