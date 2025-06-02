@@ -42,6 +42,6 @@ Make sure to delete any previous installation of the mod if you're updating. Not
 
 Download the normal version of the mod in the releases and extract the `atmosphere` folder from the archive in the root folder of your modded Switch's SD Card. Accept any file overwrite. To remove it, simply delete the `exefs` and `romfs` folders in `atmosphere\contents\0100F2C0115B6000`.
 
-#### If you're using [Simple Mod Manager][https://github.com/nadrino/SimpleModManager]
+#### If you're using [Simple Mod Manager](https://github.com/nadrino/SimpleModManager)
 
 Download the Simple Mod Manager version of the mod in the releases and extract the `mods` folder from the archive in the root folder of your modded Switch's SD Card. Then you can enable the mod in Simple Mod Manager.
