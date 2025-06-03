@@ -13,7 +13,8 @@
           "CutNumber": 1,
           "Actions": [
             "EventTriggerIncreaseRupee",
-            "EventReserveBancChange"
+            "EventReserveBancChange",
+            "EventReserveBancChangeSamePos"
           ],
           "Queries": [
             "EventQueryTalkChoice2",
@@ -1620,9 +1621,27 @@
           "ActorAction": "EventReserveBancChange",
           "Name": "Event37",
           "Type": "Action"
+        },
+        {
+          "NextEventIndex": -1,
+          "ActorIndex": 0,
+          "ActorActionIndex": 2,
+          "Parameters": {
+            "IsOnGround": {
+              "Bool": false
+            }
+          },
+          "ActorName": "GameSystemActor",
+          "ActorAction": "EventReserveBancChangeSamePos",
+          "Name": "Event38",
+          "Type": "Action"
         }
       ],
       "EntryPoints": {
+        "BancChange": {
+          "SubFlowEventIndices": [],
+          "EventIndex": 37
+        },
         "Enter": {
           "SubFlowEventIndices": [
             0
