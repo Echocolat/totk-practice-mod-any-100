@@ -1,6 +1,6 @@
 A practice mod targeting 1.0.0 (it will ONLY work on this version) any% of *The Legend of Zelda: Tears of the Kingdom*.
 
-Current version is 2.2.
+Current version is 2.3. The mod's text will only display in english (both regions) and russian, which is important for the mod menu to work.
 
 ### Features
 
@@ -10,13 +10,14 @@ Current version is 2.2.
 - A wingflip practice command (Y A dpad down) that warps you at the correct location, in a free fall state, and gives you one fairy and two wings (execute on GSI for less lag).
 - A demon dragon practice command (Y A dpad up) that triggers the end of the Demon King ganondorf fight cutscene that leads to demon dragon. also gives MS to speed up cutscenes, one black lizal horn and two wings.
 - A dzuggle command (X A dpad down) that zuggles your currently equipped weapon and reequips it. (made by the goat @dt13269)
+- A "banc change" command (ZL ZR R3), which triggers a BancChange in order to refresh the map actors as well as putting an AS bow on your back instead of at your feet.
 - A "save" menu loadable by pressing ZL, ZR and the left stick (L3) together, which allows you to load six "saves" for now:
   - Prologue, which just boots Prologue with the correct loadout and no flag turned on.
   - Cog Skip Skip, which puts you just after Room of Awakening, in position to go in Cog Skip Skip, with the correct loadout and flags.
   - Wing Bridge to ToT, which puts you on a wing where the Golem use to stand, with the correct loadout and flags.
   - FDC to Ascend, which puts you just after the void out after interacting with Temple of Time door for the first time, with the correct loadout and flags.
   - Ascend Overload Setup, which puts you inside the Ascend shrine, at the spot you do the dzuggles, with the correct loadout and flags.
-  - Early Battery, which puts you in the cave below Ascend shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
+  - Early Battery, which puts you in the cave below Ascend shrine, overloaded with 10 dzuggles [SOMETIMES DOESN'T WORK. IF YOU DON'T GET OVERLOAD, GET RID OF YOUR ZUGGLE AND LOAD THAT "SAVE" AGAIN.], with the correct loadout and flags.
 - A 100% topaz drop rate on Daruk amiibos.
 - Visuals on key trigger areas such as all relevant Prologue areas and the area triggering an autosave before Purah Pad.
 - Any triggered area other than the Ganondorf cutscene one in Prologue will reset Prologue.
