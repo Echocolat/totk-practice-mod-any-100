@@ -1,6 +1,6 @@
 A practice mod targeting 1.0.0 (it will ONLY work on this version) any% of *The Legend of Zelda: Tears of the Kingdom*.
 
-Current version is 2.3. The mod's text will only display in english (both regions) and russian, which is important for the mod menu to work.
+Current version is 2.2. The mod's text will only display in english (both regions) and russian, which is important for the mod menu to work.
 
 ### Features
 
